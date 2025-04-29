@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Perguntas from './components/perguntas';
+import Perguntas from './components/Perguntas';
 import Contador from './components/Contador';
 import cards from './deck';
 import GlobalStyles from './styles/GlobalStyles';
